@@ -1,4 +1,6 @@
-
+.body{
+	background-color: black;
+}
 .description{
 	padding: 100px;
 	color: red;
