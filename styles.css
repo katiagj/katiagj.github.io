@@ -1,3 +1,14 @@
-.intro{
-	text-align: center;
+#leftCol {
+    position: fixed;
+    width: 150px;
+    background-color: #DDD; 
+    font-size: 21px;
+    overflow-y: scroll;
+    top: 0;
+    bottom: 0;
+}
+
+#content {
+    position: relative;            
+    margin-left: 150px;
 }
